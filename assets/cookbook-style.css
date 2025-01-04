@@ -72,4 +72,15 @@ h1 {
     background-color: #f7f0e4;
     text-align: center;
     display: flex;
+    flex-direction: column;
+}
+.food{
+    border: 2px solid red;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 600px;
+}
+.img-responses{
+    width: 100%;
 }
